@@ -1,0 +1,4 @@
+LDA $40
+EOR #$FF
+STA $41
+BRK
